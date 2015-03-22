@@ -30,11 +30,21 @@
 
 <tt>gg</tt> go to the top of the page
 
+<tt>x</tt> remove a character in command mod
+
 <tt>CTRL + F</tt> forward a page in the terminal
 
 <tt>CTRL + B</tt> back a page in the terminal
 
-#Insert Mode Commands:
+<tt>d</tt> delete
+
+<tt>dd</tt> delete a line
+
+<tt>d$</tt> delete from certain point to end of the line
+
+<tt>r</tt> replace - type the character you want to replace over current one
+
+#Insert Mode Commands
 Capital <tt>I</tt> goes into Insert mode beginning of the line
 
 Capital <tt>A</tt> goes into Insert mode at the end of the line
