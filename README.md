@@ -20,6 +20,11 @@
 
 <tt>L</tt> right
 
+<tt>w</tt> move forward one word
+
+<tt>$</tt> go to end of the line
+
+<tt>0</tt> go to beginning of the line
 #Insert Mode Commands:
 Capital <tt>I</tt> goes into Insert mode beginning of the line
 
