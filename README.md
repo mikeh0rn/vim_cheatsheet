@@ -48,6 +48,8 @@
 
 <tt>y</tt> copy text while highlighted 
 
+<tt>:number</tt> jumps to specific line number
+
 #Insert Mode Commands:
 Capital <tt>I</tt> goes into Insert mode beginning of the line
 
