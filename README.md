@@ -26,7 +26,7 @@
 
 <tt>0</tt> go to beginning of the line
 
-<tt>G</tt> go to the bottom of the page
+<tt>Shift + G</tt> go to the bottom of the page
 
 <tt>gg</tt> go to the top of the page
 
@@ -57,6 +57,20 @@
 <tt>n</tt> will go to the next item of the term you searched for
 
 <tt>Shift + V</tt> highlights entire line. use arrow keys to highlight additional lines.
+
+<tt>a</tt> goes into Insert mode 1 char after highlighted letter or word
+
+<tt>b</tt> Jump back a word
+
+<tt>B</tt> Jump back a whole word separated by space
+
+<tt>W</tt> Jump words separated by space
+
+<tt>^</tt> Goes to first non-space char
+
+<tt>f + any letter</tt> will find the first occurrence of that letter in current line
+
+<tt>F + any letter</tt> will find the first occurrence of that letter in current line backwards
 
 #Insert Mode Commands:
 Capital <tt>I</tt> goes into Insert mode beginning of the line
