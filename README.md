@@ -7,7 +7,7 @@
 
 <tt>:w</tt> writes to a file
 
-<tt>:q></tt> quits vim
+<tt>:q</tt> quits vim
 
 <tt>:wq</tt> writes and quits vim
 
@@ -44,7 +44,11 @@
 
 <tt>r</tt> replace - type the character you want to replace over current one
 
-#Insert Mode Commands
+<tt>v + arrow keys</tt> highlight text
+
+<tt>y</tt> copy text while highlighted 
+
+#Insert Mode Commands:
 Capital <tt>I</tt> goes into Insert mode beginning of the line
 
 Capital <tt>A</tt> goes into Insert mode at the end of the line
