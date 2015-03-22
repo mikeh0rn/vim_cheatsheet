@@ -30,7 +30,7 @@
 
 <tt>gg</tt> go to the top of the page
 
-<tt>CTRL + F</tt> borward a page in the terminal
+<tt>CTRL + F</tt> forward a page in the terminal
 
 <tt>CTRL + B</tt> back a page in the terminal
 
