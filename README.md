@@ -52,6 +52,10 @@
 
 <tt>:set number</tt> shows all line numbers
 
+<tt>/term</tt> searches for the term you're looking for in the document
+
+<tt>n</tt> will go to the next item of the term you searched for
+
 #Insert Mode Commands:
 Capital <tt>I</tt> goes into Insert mode beginning of the line
 
