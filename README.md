@@ -56,6 +56,8 @@
 
 <tt>n</tt> will go to the next item of the term you searched for
 
+<tt>Shift + V</tt> highlights entire line. use arrow keys to highlight additional lines.
+
 #Insert Mode Commands:
 Capital <tt>I</tt> goes into Insert mode beginning of the line
 
