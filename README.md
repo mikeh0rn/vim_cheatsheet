@@ -25,6 +25,15 @@
 <tt>$</tt> go to end of the line
 
 <tt>0</tt> go to beginning of the line
+
+<tt>G</tt> go to the bottom of the page
+
+<tt>gg</tt> go to the top of the page
+
+<tt>CTRL + F</tt> borward a page in the terminal
+
+<tt>CTRL + B</tt> back a page in the terminal
+
 #Insert Mode Commands:
 Capital <tt>I</tt> goes into Insert mode beginning of the line
 
