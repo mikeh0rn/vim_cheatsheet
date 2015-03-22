@@ -50,6 +50,8 @@
 
 <tt>:number</tt> jumps to specific line number
 
+<tt>:set number</tt> shows all line numbers
+
 #Insert Mode Commands:
 Capital <tt>I</tt> goes into Insert mode beginning of the line
 
