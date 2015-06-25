@@ -72,6 +72,11 @@
 
 <tt>F + any letter</tt> will find the first occurrence of that letter in current line backwards
 
+<tt>CTRL + u</tt> page up
+
+<tt>CTRL + d</tt> page down
+
+
 #Insert Mode Commands:
 Capital <tt>I</tt> goes into Insert mode beginning of the line
 
